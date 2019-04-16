@@ -11,7 +11,7 @@
 ```python get_tid.py```  
 在当前文件夹下得到tid.txt
 4. 将上面得到的tid.txt拷贝到tutorial/tutorial/spiders下，与comments_spider.py处于同一目录下
-5. 到根目录下，运行以下命令：  
+5. 到/tutorial/目录下，运行以下命令：  
 ```scrapy crawl comments -o commmets.csv```  
 即可得到名为comments.csv的留言内容
 
