@@ -17,5 +17,5 @@
 
 # Technology stack
 1. 使用requests模块以POST方式请求网站，获取到tid的值
-2. 再以上面获取到的tid值去爬取网站留言内容，使用的是scrapy
-YOU CAN CONTACT ME IF YOU HAVE ANY QUESTIONS ABOUT THIS REPO.
+2. 再以上面获取到的tid值去爬取网站留言内容，使用的是scrapy  
+3. YOU CAN CONTACT ME IF YOU HAVE ANY QUESTIONS ABOUT THIS REPO.
