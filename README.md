@@ -15,4 +15,7 @@
 ```scrapy crawl comments -o commmets.csv```  
 即可得到名为comments.csv的留言内容
 
-# YOU CAN CONTACT ME IF YOU HAVE ANY QUESTIONS ABOUT THIS REPO.
+# Technology stack
+1. 使用requests模块以POST方式请求网站，获取到tid的值
+2. 再以上面获取到的tid值去爬取网站留言内容，使用的是scrapy
+YOU CAN CONTACT ME IF YOU HAVE ANY QUESTIONS ABOUT THIS REPO.
