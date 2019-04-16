@@ -14,3 +14,5 @@
 5. 到根目录下，运行以下命令：  
 ```scrapy crawl comments -o commmets.csv```  
 即可得到名为comments.csv的留言内容
+
+# YOU CAN CONTACT ME IF YOU HAVE ANY QUESTIONs ABOUT THIS REPO.
