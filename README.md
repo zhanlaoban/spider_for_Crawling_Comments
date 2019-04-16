@@ -15,4 +15,4 @@
 ```scrapy crawl comments -o commmets.csv```  
 即可得到名为comments.csv的留言内容
 
-# YOU CAN CONTACT ME IF YOU HAVE ANY QUESTIONs ABOUT THIS REPO.
+# YOU CAN CONTACT ME IF YOU HAVE ANY QUESTIONS ABOUT THIS REPO.
