@@ -1,5 +1,5 @@
 # spider_for_Crawling_Comments
-基于Scrapy的爬虫，爬取 地方领导留言网 “http://liuyan.people.com.cn/threads/list?fid=539 中的留言内容。
+基于Scrapy的爬虫，爬取 地方领导留言网 “http://liuyan.people.com.cn" 中的留言内容。
 
 # Environment：
 ```pip install scrapy```
